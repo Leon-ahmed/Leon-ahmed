@@ -35,3 +35,8 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40"/>
 </p>
  
+# 👋 Hi, I'm Leon
+
+🚀 **My GitHub Streak Stats**
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Leon-ahmed&theme=gruvbox&hide_border=true&background=1a1a1a&ring=FFB347&fire=FF4500&currStreakLabel=🔥%20Current%20Streak&sideLabels=false)](https://github.com/Leon-ahmed)
